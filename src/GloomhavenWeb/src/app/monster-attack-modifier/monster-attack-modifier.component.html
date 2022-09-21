@@ -1,0 +1,8 @@
+<!-- <div *ngIf="e">
+    <p>monster-attack-modifier-card works!</p>
+    <p *ngIf="monsterAttactModifierCard">{{ monsterAttactModifierCard.Name }}</p>
+    <img *ngIf="monsterAttactModifierCard" class="thisCard" [src]="images[monsterAttactModifierCard.Name + '.png'] | pixin" alt="Attack Modifier Card Image" />
+</div> -->
+<button (click)="GetNextCard()">NEXT</button>
+
+<img *ngIf="currentCard" src="assets/images/AttackModifierCards/{{currentCard}}.png" />

@@ -1,0 +1,10 @@
+C:\home-dev\gloomhaven-service\src\GloomhavenService\GloomhavenService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\home-dev\gloomhaven-service\src\GloomhavenService\GloomhavenService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\home-dev\gloomhaven-service\src\GloomhavenService\GloomhavenService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\home-dev\gloomhaven-service\src\GloomhavenService\GloomhavenService\bin\Debug\netcoreapp3.1\GloomhavenService.exe
+C:\home-dev\gloomhaven-service\src\GloomhavenService\GloomhavenService\obj\Debug\netcoreapp3.1\GloomhavenService.csprojAssemblyReference.cache
+C:\home-dev\gloomhaven-service\src\GloomhavenService\GloomhavenService\obj\Debug\netcoreapp3.1\staticwebassets\GloomhavenService.StaticWebAssets.Manifest.cache
+C:\home-dev\gloomhaven-service\src\GloomhavenService\GloomhavenService\obj\Debug\netcoreapp3.1\staticwebassets\GloomhavenService.StaticWebAssets.xml
+C:\home-dev\gloomhaven-service\src\GloomhavenService\GloomhavenService\obj\Debug\netcoreapp3.1\GloomhavenService.AssemblyInfoInputs.cache
+C:\home-dev\gloomhaven-service\src\GloomhavenService\GloomhavenService\obj\Debug\netcoreapp3.1\GloomhavenService.AssemblyInfo.cs
+C:\home-dev\gloomhaven-service\src\GloomhavenService\GloomhavenService\obj\Debug\netcoreapp3.1\GloomhavenService.RazorTargetAssemblyInfo.cache
